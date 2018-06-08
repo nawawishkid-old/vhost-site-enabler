@@ -1,5 +1,9 @@
 # Virtual host site enabler
+Simple virtual host site enabling
+
 Firstly developed for managing Docker compose which comprised of NGINX and Apache containers.
+
+> Just a minimum viable script.
 
 ## Features
 - Enable/disable site
