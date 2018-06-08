@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+source "./example.env"
+source "${APP_SOURCE_DIR}/main.sh"
